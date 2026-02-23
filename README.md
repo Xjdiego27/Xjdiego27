@@ -14,8 +14,8 @@ I love learning and creating something new, productive, innovative, and creative
   - 🎮 Video game creation and development
   - ✔ Ask me about anything; I'll be happy to help you.😉<br>
   - - Outside of technology, 🎹 I love playing the piano, 🖌️ drawing, 🎵 listening to music.
-    - - 📫 Contact me at: - <a href="jorgediegofernandezvillegas@gmail.com">jorgediegofernandezvillegas@gmail.com</a> or 
-                            <a href="jorgediegofernandezvillegas@gmail.com">jorgediego27@hotmail.com</a>
+    - - 📫 Contact me at: - <a href="mailto:jorgediegofernandezvillegas@gmail.com">jorgediegofernandezvillegas@gmail.com</a> or 
+                            <a href="mailto:jorgediego27@hotmail.com">jorgediego27@hotmail.com</a>
 
 ### Programming Languages 🌐
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,10 +43,10 @@ I love learning and creating something new, productive, innovative, and creative
 <br/>
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jorgefernandez&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jorgefernandez&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="GitHub Stats" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Xjdiego27&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Xjdiego27&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jorgefernandez&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Xjdiego27&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top Languages" />
 </p>
